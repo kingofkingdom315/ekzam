@@ -1,0 +1,68 @@
+#Page1
+{
+	background: url("../img/fon1.GIF") no-repeat;
+	background-size: cover;
+}
+
+#Page2 
+{
+	background: url("../img/fon2.GIF") repeat;
+}
+#zagol_conteiner
+{
+	text-align: center;
+}
+#text_zagol1 
+{
+	font-family: MonotypeCorsiva;
+	font-size: 24px;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+#text_zagol2
+{
+	font-family: Arial;
+	font-style: italic;
+	font-size: 24px;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+#var1 
+{
+	float: right;
+	margin: 30px;
+}
+
+#text_conteiner1
+{
+	float: left;
+}
+#var2 
+{
+	float: left;
+}
+#text_conteiner2
+{
+	float: right;
+	max-width: 400px;
+}
+
+#text_page
+{
+	background-color: #dbed1c	;
+	float: right;
+	border-style: solid;
+	border-width: 2px;
+	border-color: rgb(62, 157, 179);
+}
+
+#text_page2 
+{
+	background-color: #BC8F8F	;
+	float: left;
+	border-style: double;
+	border-width: 2px;
+	border-color: black;
+}

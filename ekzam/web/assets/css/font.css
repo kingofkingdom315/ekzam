@@ -1,0 +1,13 @@
+@font-face {
+	font-family: "MonotypeCorsiva";
+	src:  url("../font/monotypecorsiva.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "Arial";
+	src:  url("../font/arialmt.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
